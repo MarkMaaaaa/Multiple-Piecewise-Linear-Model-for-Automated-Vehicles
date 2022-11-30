@@ -1,1 +1,1 @@
-# Multiple-Piecewise-Linear-Model-for-Automated-Vehicles
+# Multiple-Piecewise-Linear-Model-for-Automated-Vehicle
